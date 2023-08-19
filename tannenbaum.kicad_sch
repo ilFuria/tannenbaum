@@ -1,5 +1,37 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a6288757-7e9b-4a60-9ecc-2dfb03657791)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "Christmas Tree")
+    (date "2023-08-19")
+    (rev "${ver}")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 143.51 34.29) (size 21.59 43.18) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 194 194 0 1.0000))
+    (uuid 28caeace-721e-4a73-af6d-3ff414828fe4)
+    (property "Sheetname" "PSU" (at 143.51 33.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "psu.kicad_sch" (at 143.51 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "tannenbaum"
+        (path "/a6288757-7e9b-4a60-9ecc-2dfb03657791" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
