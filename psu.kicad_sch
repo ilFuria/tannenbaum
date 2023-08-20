@@ -897,7 +897,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPDT") (at 71.12 63.5 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 2831ecf6-6895-4bb4-8a2d-856541e77f70)
     (property "Reference" "SW1" (at 71.12 55.88 0)
       (effects (font (size 1.27 1.27)))
@@ -911,7 +911,7 @@
     (property "Datasheet" "~" (at 71.12 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Purpose" "" (at 71.12 63.5 0)
+    (property "Purpose" "On - Off" (at 66.04 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid a42bb795-8c24-4c75-9c9d-ef9e2a7033eb))
