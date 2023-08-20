@@ -1010,7 +1010,7 @@
     (effects (font (size 1.27 1.27) (color 0 194 194 1)) (justify right bottom))
     (uuid 5bab12a8-b2c6-4eff-849e-f48f2fc6310e)
   )
-  (text "BLU" (at 232.41 116.84 0)
+  (text "BLU" (at 232.41 109.22 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid ef2af3f5-06e4-4ab2-ad0c-dd3eabc38e5a)
   )
