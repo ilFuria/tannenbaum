@@ -1,4 +1,4 @@
-22653943802840802
+22657329106506699
 AP7380-33Y-13
 VREG_AP7380-33Y-13
 
@@ -59906,6 +59906,13 @@ LED
 2
 2
 LED_SMD
+LED_0805_2012Metric_LW
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
 LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 LED handsolder
@@ -64681,6 +64688,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 4
 PVG5A202C03R00
 TRIM_PVG5A202C03R00
+
+
+0
+3
+3
+PVG5A202C03R00
+TRIM_PVG5A202C03R00_TWO
 
 
 0
