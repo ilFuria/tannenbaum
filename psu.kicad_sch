@@ -819,7 +819,7 @@
   (symbol (lib_id "power:GND") (at 135.89 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 12e1e7d7-2983-4ad9-a156-45e5c777524a)
-    (property "Reference" "#PWR02" (at 135.89 91.44 0)
+    (property "Reference" "#PWR019" (at 135.89 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 135.89 90.17 0)
@@ -835,7 +835,7 @@
     (instances
       (project "tannenbaum"
         (path "/a6288757-7e9b-4a60-9ecc-2dfb03657791/28caeace-721e-4a73-af6d-3ff414828fe4"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -870,7 +870,7 @@
   (symbol (lib_id "Device:R") (at 88.9 50.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2091e498-d139-4d62-9721-8bddd482b25c)
-    (property "Reference" "R13" (at 90.17 54.61 90)
+    (property "Reference" "R17" (at 90.17 54.61 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0R" (at 90.17 57.15 90)
@@ -890,7 +890,7 @@
     (instances
       (project "tannenbaum"
         (path "/a6288757-7e9b-4a60-9ecc-2dfb03657791/28caeace-721e-4a73-af6d-3ff414828fe4"
-          (reference "R13") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -1016,7 +1016,7 @@
   (symbol (lib_id "power:GND") (at 50.8 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6080497e-d833-40f1-87f3-b46eceb928fa)
-    (property "Reference" "#PWR01" (at 50.8 97.79 0)
+    (property "Reference" "#PWR018" (at 50.8 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 50.8 96.52 0)
@@ -1032,7 +1032,7 @@
     (instances
       (project "tannenbaum"
         (path "/a6288757-7e9b-4a60-9ecc-2dfb03657791/28caeace-721e-4a73-af6d-3ff414828fe4"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -1041,7 +1041,7 @@
   (symbol (lib_id "Device:C") (at 153.67 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8dce8949-38d8-4f91-aaeb-c510580fefda)
-    (property "Reference" "C5" (at 157.48 80.01 0)
+    (property "Reference" "C6" (at 157.48 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 157.48 82.55 0)
@@ -1058,7 +1058,7 @@
     (instances
       (project "tannenbaum"
         (path "/a6288757-7e9b-4a60-9ecc-2dfb03657791/28caeace-721e-4a73-af6d-3ff414828fe4"
-          (reference "C5") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -1067,7 +1067,7 @@
   (symbol (lib_id "Device:C") (at 146.05 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93b3071d-56d2-458e-a98e-080b2aeb8ca4)
-    (property "Reference" "C6" (at 139.7 78.74 0)
+    (property "Reference" "C5" (at 139.7 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10n" (at 139.7 81.28 0)
@@ -1087,7 +1087,7 @@
     (instances
       (project "tannenbaum"
         (path "/a6288757-7e9b-4a60-9ecc-2dfb03657791/28caeace-721e-4a73-af6d-3ff414828fe4"
-          (reference "C6") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -1121,7 +1121,7 @@
   (symbol (lib_id "dk_Transistors-FETs-MOSFETs-Single:BSS84") (at 99.06 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c90ddfcc-0060-4af2-9088-a28be4eddc2e)
-    (property "Reference" "Q6" (at 99.06 59.69 90)
+    (property "Reference" "Q8" (at 99.06 59.69 90)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "BSS84" (at 99.06 62.23 90)
@@ -1169,7 +1169,7 @@
     (instances
       (project "tannenbaum"
         (path "/a6288757-7e9b-4a60-9ecc-2dfb03657791/28caeace-721e-4a73-af6d-3ff414828fe4"
-          (reference "Q6") (unit 1)
+          (reference "Q8") (unit 1)
         )
       )
     )
