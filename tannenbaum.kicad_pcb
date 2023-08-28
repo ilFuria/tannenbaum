@@ -3796,6 +3796,9 @@
     )
 
     (stroke (width 0.1) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 6fabd38c-8a10-454d-97f6-1f61b8fff6ce))
+  (gr_text "JLCJLCJLCJLC" (at 68.58 93.98) (layer "B.SilkS") (tstamp dce37b2a-9ee4-4149-8b95-2c37925ebe17)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
 
   (segment (start 95.9825 87.17) (end 88.695 87.17) (width 0.25) (layer "B.Cu") (net 1) (tstamp 6f094e00-8697-4fca-b4bb-37168e8d587c))
   (segment (start 88.695 87.17) (end 75.605 74.08) (width 0.25) (layer "B.Cu") (net 1) (tstamp 7131b852-e0cd-46a0-8fc0-e1218d2d1487))
